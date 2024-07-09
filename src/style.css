@@ -103,6 +103,9 @@ section.second h3 {
 .card {
   background-color: #ffffff;
 }
+.card-header img {
+  height: 180px;
+}
 .card-body {
   padding: 30px;
 }
